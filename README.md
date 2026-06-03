@@ -1,4 +1,5 @@
-這是我的 [主程式碼檔案](main.py)，你也可以直接在下方查看：
+歡迎查看我的 [核心程式碼 (main.py)](https://github.com) 檔案。
+
 ```python
 import random
 import math
